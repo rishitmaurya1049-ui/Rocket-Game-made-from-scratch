@@ -1,2 +1,2 @@
-# Harvard-CS50x-Projects
-Here i am uploading, the projects i made for Harvard's CS50x course.
+# Rocket Game made on Scratch
+I have uploaded the Rocket game I have made for scratch.
